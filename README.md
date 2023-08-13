@@ -1,6 +1,6 @@
 # Blood-Bank-Management-System-
-This management system is made using python with sql connectivity.
-
+This management system is made using python with sql connectivi
+	
 import mysql.connector as MySQLdb
 from tkinter import *
 import tkinter.messagebox
@@ -302,4 +302,3 @@ def stop(root):
 
 root.mainloop()
 db.commit()
-
